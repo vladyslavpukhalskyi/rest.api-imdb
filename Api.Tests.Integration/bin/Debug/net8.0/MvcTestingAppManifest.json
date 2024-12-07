@@ -1,0 +1,8 @@
+{
+  "Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Навчання\\Restik\\imdb\\Api",
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Навчання\\Restik\\imdb\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Навчання\\Restik\\imdb\\Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Навчання\\Restik\\imdb\\Infrastructure",
+  "Tests.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Навчання\\Restik\\imdb\\Tests.Common",
+  "Tests.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Навчання\\Restik\\imdb\\Tests.Data"
+}
