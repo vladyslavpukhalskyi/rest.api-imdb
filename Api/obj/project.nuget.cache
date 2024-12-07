@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N5vviEOoREw=",
+  "dgSpecHash": "Qoe3UnZwqAk=",
   "success": true,
   "projectFilePath": "F:\\Навчання\\rest.api-imdb\\Api\\Api.csproj",
   "expectedPackageFiles": [
@@ -45,8 +45,6 @@
     "C:\\Users\\Ackerman\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Ackerman\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Ackerman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\Ackerman\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
-    "C:\\Users\\Ackerman\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.4\\npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512",
     "C:\\Users\\Ackerman\\.nuget\\packages\\optional\\5.0.0-alpha\\optional.5.0.0-alpha.nupkg.sha512",
     "C:\\Users\\Ackerman\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
     "C:\\Users\\Ackerman\\.nuget\\packages\\ssh.net\\2024.1.0\\ssh.net.2024.1.0.nupkg.sha512",
