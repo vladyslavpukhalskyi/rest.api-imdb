@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Навчання\\rest.api-imdb\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "F:\\Навчання\\rest.api-imdb\\Domain\\Domain.csproj": {
+    "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Навчання\\rest.api-imdb\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Навчання\\rest.api-imdb\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Ackerman\\.nuget\\packages\\",
-        "outputPath": "F:\\Навчання\\rest.api-imdb\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ackerman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

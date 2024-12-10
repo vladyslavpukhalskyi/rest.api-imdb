@@ -9,9 +9,9 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=85a2727f_002Db6ef_002D4d8b_002Dbe9e_002D7dae60beed85/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from GenresControllerTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;ProjectFile&gt;2E24C1BD-BC96-4CEE-9CCB-BDF5ABA2AAB9/d:Genres/f:GenresControllerTests.cs&lt;/ProjectFile&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b445b8c8_002Dbee0_002D4a32_002Da05b_002D8b6b43a721cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from GenresControllerTests.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b445b8c8_002Dbee0_002D4a32_002Da05b_002D8b6b43a721cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from GenresControllerTests.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Project Location="F:\Навчання\Restik\imdb\Api.Tests.Integration" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;Api.Tests.Integration&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dcdb9d23_002D13d1_002D4950_002Da7fa_002De56abb0d1bff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dcdb9d23_002D13d1_002D4950_002Da7fa_002De56abb0d1bff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;Project Location="C:\Users\Ackerman\Desktop\imdb" Presentation="&amp;lt;tests&amp;gt;" /&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

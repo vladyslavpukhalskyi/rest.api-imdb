@@ -4623,19 +4623,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ackerman\\.nuget\\packages\\": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Навчання\\rest.api-imdb\\Tests.Common\\Tests.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Tests.Common\\Tests.Common.csproj",
       "projectName": "Tests.Common",
-      "projectPath": "F:\\Навчання\\rest.api-imdb\\Tests.Common\\Tests.Common.csproj",
-      "packagesPath": "C:\\Users\\Ackerman\\.nuget\\packages\\",
-      "outputPath": "F:\\Навчання\\rest.api-imdb\\Tests.Common\\obj\\",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Tests.Common\\Tests.Common.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Tests.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ackerman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4649,8 +4649,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Навчання\\rest.api-imdb\\Api\\Api.csproj": {
-              "projectPath": "F:\\Навчання\\rest.api-imdb\\Api\\Api.csproj"
+            "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Api\\Api.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Api\\Api.csproj"
             }
           }
         }

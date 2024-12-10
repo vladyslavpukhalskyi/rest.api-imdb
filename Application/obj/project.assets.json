@@ -3077,19 +3077,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ackerman\\.nuget\\packages\\": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Навчання\\rest.api-imdb\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "F:\\Навчання\\rest.api-imdb\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\Ackerman\\.nuget\\packages\\",
-      "outputPath": "F:\\Навчання\\rest.api-imdb\\Application\\obj\\",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ackerman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3103,8 +3103,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Навчання\\rest.api-imdb\\Domain\\Domain.csproj": {
-              "projectPath": "F:\\Навчання\\rest.api-imdb\\Domain\\Domain.csproj"
+            "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Desktop\\3 курс\\REST API\\rest.api-imdb\\Domain\\Domain.csproj"
             }
           }
         }
