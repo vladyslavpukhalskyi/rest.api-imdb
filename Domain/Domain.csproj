@@ -30,7 +30,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Genres\" />
       <Folder Include="Movies\" />
     </ItemGroup>
 
